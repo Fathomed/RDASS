@@ -13,7 +13,7 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-const availableQuestions = [];
+const availableQuesions = [];
 
 let questions = [];
 fetch("https://fathomed.github.io/rdass/questions.json")
