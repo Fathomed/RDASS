@@ -34,14 +34,14 @@ const MAX_QUESTIONS = 10;
 startGame = () => {
 	questionCounter = 0;
 	score = 0;
-	availableQuestions = [...questions];
+	availableQuesions = [...questions];
 	getNewQuestion();
 	game.classList.remove("hidden");
 	loader.classList.add("hidden");
 };
 
 getNewQuestion = () => {
-	if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
+	if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
 		localStorage.setItem("mostRecentScore", score);
 		// go to the end page
 		return window.location.assign("/quiz-pages/quiz-end");
@@ -51,8 +51,8 @@ getNewQuestion = () => {
 	// Update the progress bar
 	progressbarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
-	const questionIndex = Math.floor(Math.random() * availableQuestions.length);
-	currentQuestion = availableQuestions[questionIndex];
+	const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+	currentQuestion = availableQuesions[questionIndex];
 	header.innerText = currentQuestion.header;
 	question.innerText = currentQuestion.question;
 	referencePage.innerText = currentQuestion.referencepage;
@@ -63,7 +63,7 @@ getNewQuestion = () => {
 		choice.innerText = currentQuestion[`choice${number}`];
 	});
 
-	availableQuestions.splice(questionIndex, 1);
+	availableQuesions.splice(questionIndex, 1);
 	acceptingAnswers = true;
 };
 
