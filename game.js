@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const header = document.getElementById("header");
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
@@ -18,18 +19,21 @@ let questions = [];
 fetch("https://fathomed.github.io/rdass/questions.json")
 	.then((res) => res.json())
 	.then((loadedQuestions) => {
+		// eslint-disable-next-line no-console
 		console.log(loadedQuestions);
 		questions = loadedQuestions;
+		// eslint-disable-next-line no-undef
 		startGame();
 	})
 	.catch((err) => {
 		console.error(err);
 	});
 
-//CONSTANTS
+// CONSTANTS
 const CORRECT_BONUS = 1;
 const MAX_QUESTIONS = 10;
 
+// eslint-disable-next-line no-undef
 startGame = () => {
 	questionCounter = 0;
 	score = 0;
@@ -42,12 +46,12 @@ startGame = () => {
 getNewQuestion = () => {
 	if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
 		localStorage.setItem("mostRecentScore", score);
-		//go to the end page
+		// go to the end page
 		return window.location.assign("/rdass-pages/rdass-quiz-end");
 	}
 	questionCounter++;
 	progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
-	//Update the progress bar
+	// Update the progress bar
 	progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
 	const questionIndex = Math.floor(Math.random() * availableQuestions.length);
@@ -56,8 +60,8 @@ getNewQuestion = () => {
 	question.innerHTML = currentQuestion.question;
 
 	choices.forEach((choice) => {
-		const number = choice.dataset["number"];
-		choice.innerHTML = currentQuestion["choice" + number];
+		const { number } = choice.dataset;
+		choice.innerHTML = currentQuestion[`choice${number}`];
 	});
 
 	availableQuestions.splice(questionIndex, 1);
@@ -70,10 +74,10 @@ choices.forEach((choice) => {
 
 		acceptingAnswers = false;
 		const selectedChoice = e.target;
-		const selectedAnswer = selectedChoice.dataset["number"];
+		const selectedAnswer = selectedChoice.dataset.number;
 
 		const classToApply =
-			selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
+			selectedAnswer === currentQuestion.answer ? "correct" : "incorrect";
 
 		if (classToApply === "correct") {
 			incrementScore(CORRECT_BONUS);
