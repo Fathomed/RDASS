@@ -16,30 +16,10 @@ let availableQuestions = [];
 let questions = [];
 
 fetch("https://fathomed.github.io/rdass/questions.json")
-	.then((res) => {
-		return res.json();
-	})
+	.then((res) => res.json())
 	.then((loadedQuestions) => {
-		questions = loadedQuestions.results.map((loadedQuestion) => {
-			const formattedQuestion = {
-				question: loadedQuestion.question,
-			};
-
-			const answerChoices = [...loadedQuestion.incorrect_answers];
-			formattedQuestion.answer = Math.floor(Math.random() * 4) + 1;
-			answerChoices.splice(
-				formattedQuestion.answer - 1,
-				0,
-				loadedQuestion.correct_answer
-			);
-
-			answerChoices.forEach((choice, index) => {
-				formattedQuestion["choice" + (index + 1)] = choice;
-			});
-
-			return formattedQuestion;
-		});
-
+		console.log(loadedQuestions);
+		questions = loadedQuestions;
 		startGame();
 	})
 	.catch((err) => {
