@@ -1,4 +1,4 @@
-const header = document.getElementById("header");
+/* eslint-disable no-undef */
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progressText");
@@ -6,19 +6,18 @@ const scoreText = document.getElementById("score");
 const progressBarFull = document.getElementById("progressBarFull");
 const loader = document.getElementById("loader");
 const game = document.getElementById("game");
-
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let availableQuestions = [];
+let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://fathomed.github.io/rdass/questions.json")
-	.then((res) => {
-		return res.json();
-	})
+fetch(
+	"https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple"
+)
+	.then((res) => res.json())
 	.then((loadedQuestions) => {
 		questions = loadedQuestions.results.map((loadedQuestion) => {
 			const formattedQuestion = {
@@ -34,7 +33,7 @@ fetch("https://fathomed.github.io/rdass/questions.json")
 			);
 
 			answerChoices.forEach((choice, index) => {
-				formattedQuestion["choice" + (index + 1)] = choice;
+				formattedQuestion[`choice${index + 1}`] = choice;
 			});
 
 			return formattedQuestion;
@@ -46,41 +45,40 @@ fetch("https://fathomed.github.io/rdass/questions.json")
 		console.error(err);
 	});
 
-//CONSTANTS
-const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 10;
+// CONSTANTS
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 3;
 
 startGame = () => {
 	questionCounter = 0;
 	score = 0;
-	availableQuestions = [...questions];
+	availableQuesions = [...questions];
 	getNewQuestion();
 	game.classList.remove("hidden");
 	loader.classList.add("hidden");
 };
 
 getNewQuestion = () => {
-	if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
+	if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
 		localStorage.setItem("mostRecentScore", score);
-		//go to the end page
-		return window.location.assign("/rdass-pages/rdass-quiz-end");
+		// go to the end page
+		return window.location.assign("/end.html");
 	}
 	questionCounter++;
 	progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
-	//Update the progress bar
+	// Update the progress bar
 	progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
-	const questionIndex = Math.floor(Math.random() * availableQuestions.length);
-	currentQuestion = availableQuestions[questionIndex];
-	header.innerText = currentQuestion.header;
+	const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+	currentQuestion = availableQuesions[questionIndex];
 	question.innerHTML = currentQuestion.question;
 
 	choices.forEach((choice) => {
-		const number = choice.dataset["number"];
-		choice.innerHTML = currentQuestion["choice" + number];
+		const { number } = choice.dataset;
+		choice.innerHTML = currentQuestion[`choice${number}`];
 	});
 
-	availableQuestions.splice(questionIndex, 1);
+	availableQuesions.splice(questionIndex, 1);
 	acceptingAnswers = true;
 };
 
@@ -90,9 +88,10 @@ choices.forEach((choice) => {
 
 		acceptingAnswers = false;
 		const selectedChoice = e.target;
-		const selectedAnswer = selectedChoice.dataset["number"];
+		const selectedAnswer = selectedChoice.dataset.number;
 
 		const classToApply =
+			// eslint-disable-next-line eqeqeq
 			selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
 
 		if (classToApply === "correct") {
