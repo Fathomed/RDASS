@@ -1,15 +1,132 @@
 [
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
+		"header": "Lifejackets",
+		"question": "Which of the following statements about lifejackets is the best answer?",
+		"choice1": "It is the skipper's legal responsibility to ensure lifejackets are worn in situations of heightened risk, such as when crossing a bar, in rough water, during an emergency, and by non‐swimmers",
+		"choice2": "There must be one correct sized lifejacket for everyone on board. The lifejacket must be in good working condition and suitable for the intended activity",
+		"choice3": "Child-sized lifejackets must contain a crotch strap",
+		"choice4": "Wearing a life jacket increases your survival time in the water by a significant margin",
+		"choice5": "All of the above",
+		"answer": 5,
 		"referencepage": "Lifejackets",
 		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+	},
+
+	{
+		"header": "Electronic Communications (Part A)",
+		"question": "Which of the following statements is the best answer regarding electronic communication devices?",
+		"choice1": "VHF radio is the recommended first choice of communications in marine emergencies",
+		"choice2": "All vessels should carry two forms of communication, of which one should be a VHF radio",
+		"choice3": "Only vessels operating more than 5-kilomentres from shore should use a VHF radio",
+		"choice4": "Answers A & B are correct statements",
+		"choice5": "Mobile phones are more reliable than all other electronic communication devices on a boat",
+		"answer": 4,
+		"referencepage": "Electronic Communications",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication></a>"
+	},
+
+	{
+		"header": "Electronic Communications (Part B)",
+		"question": "Choose the best answer from the following statements about EPIRBs and PLBs?",
+		"choice1": "EPIRBs and PLBs are electronic beacons that can notify rescue services of your location almost anywhere on Earth",
+		"choice2": "Today, EPIRBs and PLBs are much more affordable than in the past",
+		"choice3": "An EPIRB or PLB should never be activated unless it is an emergency",
+		"choice4": "While it is a legal requirement to register an EPIRB or PLB, the process is simple, quick, and free",
+		"choice5": "All of the above",
+		"answer": 5,
+		"referencepage": "Electronic Communications",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication></a>"
+	},
+
+	{
+		"header": "Non-electronic communication - Sound",
+		"question": "Choose the best answer from the following regarding the use of sound on dive boats.",
+		"choice1": "Answers C, D and E are correct",
+		"choice2": "Loud sounds are not useful as a form of emergency communication on boats",
+		"choice3": "Portable or fixed horns and whistles on lifejackets are good for making loud sounds",
+		"choice4": "Many vessels use sound to aid navigation in fog",
+		"choice5": "Flares should be used with caution and only in an emergency",
+		"answer": 1,
+		"referencepage": "Non-electronic communication",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/non-electronic-communication></a>"
+	},
+
+	{
+		"header": "General Safety Equipment",
+		"question": "Which of the following is not from the list of recommended general safety equipment items in the RDASS reference list?",
+		"choice1": "Bilge pump, bucket, hand bailer",
+		"choice2": "Alternative power, a spare outboard motor, or oars",
+		"choice3": "A grab-bag of lollies of similar sweet pick-me-ups",
+		"choice4": "A throwable floatation device with attached line",
+		"choice5": "Warm clothing",
+		"answer": 3,
+		"referencepage": "General Equipment",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/general-equipment></a>"
+	},
+
+	{
+		"header": "First Aid Kits",
+		"question": "All vessels should carry a well-stocked First Aid Kit. Which of the following is not from the list of minimum requirements of the RDASS reference list?",
+		"choice1": "Roller bandages - 50mm (1 roll) and 75 mm (1 roll)",
+		"choice2": "A box of low strength painkillers such as aspirin or paracetamol",
+		"choice3": "Adhesive wound dressing - 6 cm wide x 1 metre long (1 strip)",
+		"choice4": "Space blanket",
+		"choice5": "First Aid Manual and a Card listing local emergency numbers",
+		"answer": 2,
+		"referencepage": "First Aid Kits",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/first-aid-kits></a>"
+	},
+
+	{
+		"header": "Burns",
+		"question": "Which of the following statements about burn injuries is not correct?",
+		"choice1": "First-degree burns are always minor and never require treatment",
+		"choice2": "Burn injuries can be serious, especially on a vessel or at a remote location where immediate treatment and patient management can be slow to access",
+		"choice3": "Do immediately stop the burning process: cooling the burn with running cool (not cold) water for 20 minutes is a good option",
+		"choice4": "If the patient exhibits any signs and symptoms of shock, seek immediate medical attention",
+		"choice5": "Do not use any butter, ointments, or other home remedies on the burn. Such substances may trap the tissue's heat and make the burn worse",
+		"answer": 1,
+		"referencepage": "Burns",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/burns></a>"
+	},
+
+	{
+		"header": "Seasickness",
+		"question": "Which of the following is the best answer regarding seasickness?",
+		"choice1": "Keeping the patient on deck with a view of the horizon can alleviate some symptoms of seasickness",
+		"choice2": "Fluid intake is essential. Seasickness can become a serious medical problem if dehydration occurs in the patient",
+		"choice3": "Some prescription and over-the-counter medications can help with seasickness, especially if taken prior to departure",
+		"choice4": "Always treat seasickness seriously and with compassion",
+		"choice5": "All of the above",
+		"answer": 5,
+		"referencepage": "Seasickness",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/seasickness></a>"
+	},
+
+	{
+		"header": "Hypothermia",
+		"question": "Which of the following statements is not correct about hypothermia?",
+		"choice1": "Hypothermia is caused by prolonged exposure to cold temperatures, especially where water is a compounding factor",
+		"choice2": "Hypothermia only occurs to people under the age of 15 and older than 55",
+		"choice3": "Symptoms of hypothermia include shivering, slurred speech, clumsiness, and confusion",
+		"choice4": "Hypothermia is a medical emergency and can be fatal",
+		"choice5": "Treatment is urgent and includes immediate removal from exposure, drying and insulating to commence warming",
+		"answer": 2,
+		"referencepage": "Hypothermia",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/hypothermia></a>"
+	},
+
+	{
+		"header": "Hyperthermia",
+		"question": "Hyperthermia is the potentially fatal overheating of the bodies core temperature. Which of the following is the best answer regarding hyperthermia?",
+		"choice1": "Signs and symptoms of hyperthermia include dizziness, weakness, thirst, coordination issues, rapid breathing and pulse",
+		"choice2": "Treatment includes removal to a shaded, well-ventilated location",
+		"choice3": "Rehydration will cool fluids, especially water is important",
+		"choice4": "Contact emergencies services if the condition of the patience does not rapidly improve or worsens",
+		"choice5": "All of the above",
+		"answer": 5,
+		"referencepage": "Hyperthermia",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/hyperthermia></a>"
 	},
 
 	{
@@ -26,16 +143,68 @@
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
+		"header": "Treatment of fish-hook injuries",
+		"question": "Which of the following statements regarding fishhook injuries is correct?",
+		"choice1": "Fish-hook injuries only occur in experienced fisherpersons",
+		"choice2": "All embedded fishhooks can be removed safely without the help of a medical professional",
+		"choice3": "Only rusty fishhooks present a risk of infection",
+		"choice4": "Treat any signs of unwellness following a fish-hook injury seriously",
+		"choice5": "Always close the injury site immediately after removing a fishhook",
+		"answer": 4,
+		"referencepage": "Fish-hook injuries",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/treatment-fish-hook-injuries></a>"
+	},
+
+	{
+		"header": "Trip Reports",
+		"question": "Which of the following information should be included in your trip report?",
+		"choice1": "The number of passengers on board",
+		"choice2": "The names of all the passengers",
+		"choice3": "The name and/or VHF call-sign of the vessel",
+		"choice4": "The general trip plan, destination and estimated time of return",
+		"choice5": "Answers A, C and D only",
+		"answer": 5,
+		"referencepage": "Trip Reports",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/trip-reports></a>"
+	},
+
+	{
+		"header": "Rules of the road (1)",
+		"question": "When two vessels are underway and approaching, which of the following is the best answer?",
+		"choice1": "Two approaching vessels pass starboard-side to starboard-side",
+		"choice2": "Two approaching vessels pass port-side to port-side",
+		"choice3": "All powerboats give way to vessels on their starboard side",
+		"choice4": "Powerboats give way to sailboats, paddle and rowboats and vessels operating under constrained manoeuverability like container ships in harbours",
+		"choice5": "Answers B, C, and D are correct",
+		"answer": 5,
+		"referencepage": "Rules of the road",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
+	},
+
+	{
+		"header": "Rules of the road (2)",
+		"question": "Which of the following statements is correct regarding overtaking vessels?",
+		"choice1": "The overtaking vessel must pass the port side of the slower vessel",
+		"choice2": "The overtaking vessel must pass the starboard side of the slower vessel",
+		"choice3": "The overtaking vessel can pass on either side, maintaining a safe distance that allows for sudden changes of course or speed by the slower vessel",
+		"choice4": "The slower vessel must give-way to the overtaking vessel",
+		"choice5": "The slower vessel must accelerate to match the overtaking vessel's speed",
 		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"referencepage": "Rules of the road",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
+	},
+
+	{
+		"header": "Rules of the road (3)",
+		"question": "Which of the following is the best answer regarding vessel speed and maintaining watch?",
+		"choice1": "Vessels must proceed at a safe speed allowing for weather conditions, visibility and traffic congestion",
+		"choice2": "In open water and clear of all shipping channels there is no requirement to maintain watch",
+		"choice3": "Vessel skippers must keep watch at all times",
+		"choice4": "When determining a safe speed, the potential for encountering persons or small low-profile craft such as kayaks is a vital consideration",
+		"choice5": "Answers A, C & D are correct.",
+		"answer": 5,
+		"referencepage": "Rules of the road",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
 	},
 
 	{
@@ -47,215 +216,149 @@
 		"choice4": "The upside-down Skull & Crossbones flag",
 		"choice5": "All of the above are acceptable",
 		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"referencepage": "Dive flags and restricted speed",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Vessel speed and divers",
+		"question": "Which of the following statements about boat speed is the best answer?",
+		"choice1": "Vessels must reduce speed to below 5-knots within 200-metres of the shore",
+		"choice2": "Vessels must reduce speed to below 5-knots within 200 metres of the dive flag",
+		"choice3": "Vessels must reduce speed to below 5-knots within 50-metres of another vessel or person in the water",
+		"choice4": "Vessels and skippers are required to keep a proper lookout at all times, including for divers and swimmers in the water",
+		"choice5": "All of the above",
+		"answer": 5,
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Dive Planning",
+		"question": "Which of the following statements is incorrect regarding dive planning?",
+		"choice1": "Only the divers should contribute to the dive plan",
+		"choice2": "Dive planning should involve all people participating - the divers, the skipper and the dive activity supervisor.",
+		"choice3": "Dive planning includes knowledge of the topography, the environmental conditions plus the use of dive tables or dive computer",
+		"choice4": "A dive plan should include entry and exit procedures plus a clearly defined dive duration",
+		"choice5": "It is essential for the activity supervisor to stay alert until all divers have returned to the vessel",
+		"answer": 1,
+		"referencepage": "Dive Planning",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-planning></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Anchoring",
+		"question": "A quality anchor is a sailor's best friend. Which of the following is the best answer regarding anchoring?",
+		"choice1": "All anchor types are suitable in all conditions",
+		"choice2": "Deploy at least three times as much rode as the water depth, and test the holding of the anchor before shutting down the vessel",
+		"choice3": "An anchor rode comprised only of rope without chain is sufficient for small vessels",
+		"choice4": "Only the skipper needs to be trained in the deployment and retrieval of anchors",
+		"choice5": "It is safe to deploy an anchor from the stern of a vessel",
+		"answer": 2,
+		"referencepage": "Anchoring",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/anchoring></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Deploying and retrieving divers from the water",
+		"question": "Which of the following statements is incorrect regarding deploying and retrieving divers from the water?",
+		"choice1": "Always observe drop-off location in detail to ensure it is clear of hazards to the vessel or divers",
+		"choice2": "The divers do not need the skipper's approval to enter the water",
+		"choice3": "Plan and agree the diver deployment in advance",
+		"choice4": "Sometimes it is safer for divers to swim to and from the dive zone while keeping the vessel clear of hazards",
+		"choice5": "Have a plan for assisting exhausted or distressed divers from the water",
+		"answer": 2,
+		"referencepage": "Deploying & retrieving divers",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dropping-picking-up-assisting-divers></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Basic hand signals",
+		"question": "Which two hand signals of the following are vitally important to dive activity supervisors?",
+		"choice1": "OK on the surface, and Distress on the surface",
+		"choice2": "Stop, and Level off",
+		"choice3": "Look at me, and Take a three-minute safety stop",
+		"choice4": "Descend, and Ascend",
+		"choice5": "Follow me, and Share air",
+		"answer": 1,
+		"referencepage": "Basic hand signals",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Use of floats",
+		"question": "Which the following statements is the best answer regarding the use of floats and lines?",
+		"choice1": "Dive vessels should carry a throwable floating device with attached line",
+		"choice2": "Floats and lines can be used for retrieving divers in distress",
+		"choice3": "Floats and lines can be useful behind anchored or moored vessels to allow divers to rest while waiting to exit the water",
+		"choice4": "A, B and C are correct answers",
+		"choice5": "Only C is a correct answer",
+		"answer": 4,
+		"referencepage": "Use of floats",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
+		"header": "Waves, currents and tides",
+		"question": "Which of the following statements is not correct regarding waves, currents and tides?",
+		"choice1": "The friction of wind across the water's surface generates the energy required to form a wave",
+		"choice2": "The speed of a current is measured in knots or fractions of a knot",
+		"choice3": "Tide and current movement have no effect underwater",
+		"choice4": "Spring tides generate the largest amount of water movement (high to low) in the lunar cycle",
+		"choice5": "Neap tides generate the smallest amount of water movement (high to low) in the lunar cycle",
 		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"referencepage": "Waves, currents and tides",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/waves-currents-tides></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Responding to Panicked or Distressed Diver on the Surface",
+		"question": "Which of the following steps is not included in the RDASS guide to Responding to panicked or distressed divers on the surface?",
+		"choice1": "If possible, using your boat, approach the diver and throw them a life ring or any other form of flotation device. If the situation dictates and is safe to do so, enter the water and carry a flotation device to the diver",
+		"choice2": "Allow the diver to calm themselves before approaching or engaging in any way",
+		"choice3": "It is common for panicked divers and swimmers to attempt to grab the rescuer in a manner that may threaten both person's lives. Position a flotation device between you and the diver to minimise the risk",
+		"choice4": "Always ensure they drop their weight belt and catch bag if they have one",
+		"choice5": "Calm the diver while assisting them back to the vessel",
+		"answer": 2,
+		"referencepage": "Distressed Diver on the Surface",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Missing Diver Procedure",
+		"question": "Which of the following steps is not included in the RDASS guide to Missing Diver Procedures?",
+		"choice1": "Take no action until the originally planned dive time have elapsed",
+		"choice2": "Determine the direction and strength of the current",
+		"choice3": "Estimate the missing diver's possible actions in an emergency",
+		"choice4": "Immediately recall any other divers by either revving the engine in neutral or banging on the side of the boat",
+		"choice5": "Immediately contact emergency services using your VHF radio on Channel 16 or by telephone.",
+		"answer": 1,
+		"referencepage": "Missing Diver Procedure",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Unconscious Diver on the Surface",
+		"question": "Which of the following steps is not included in the RDASS guide for an unconscious diver on the surface?",
+		"choice1": "Bring your boat alongside the victim",
+		"choice2": "Use other divers, if possible, to help bring the victim onboard",
+		"choice3": "Perform the standard assessments and actions described in your First Aid and CPR course",
+		"choice4": "Test breathe the diver's remaining air to check for contamination",
+		"choice5": "Call DES (Divers Emergency Services) on 0800 4 DES 111 (0800 4337111)",
+		"answer": 4,
+		"referencepage": "Unconscious Diver on the Surface",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
 	},
 
 	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
-	},
-
-	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
-	},
-
-	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
-	},
-
-	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
-	},
-
-	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
-	},
-
-	{
-		"header": "Dive Flags",
-		"question": "Which of the following is recognised as a dive flag in New Zealand?",
-		"choice1": "The red, white and blue striped Charlie flag",
-		"choice2": "The red & white DAN flag",
-		"choice3": "The blue & white Alpha flag",
-		"choice4": "The upside-down Skull & Crossbones flag",
-		"choice5": "All of the above are acceptable",
-		"answer": 3,
-		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"header": "Mayday calls",
+		"question": "Which of the following is the best answer regarding Mayday calls?",
+		"choice1": "Mayday calls can be used for a wide variety of non-emergency-related circumstances",
+		"choice2": "Always use VHF channel 16 to conduct a Mayday call",
+		"choice3": "Only make a Mayday call if you are in imminent danger and need immediate help",
+		"choice4": "A Mayday call can be conducted with a mobile phone.",
+		"choice5": "Answers B & C are correct",
+		"answer": 5,
+		"referencepage": "Mayday calls",
+		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/mayday-calls></a>"
 	}
 ]
