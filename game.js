@@ -4,6 +4,7 @@ const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progressText");
 const scoreText = document.getElementById("score");
+const referenceLink = document.getElementsByClassName("referenceLink");
 const referenceText = document.getElementById("referencepage");
 const progressBarFull = document.getElementById("progressbarFull");
 const loader = document.getElementById("loader");
@@ -59,6 +60,7 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
+  referenceLink.innerHTML = currentQuestion.referencelink;
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
