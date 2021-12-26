@@ -59,7 +59,7 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
-  referenceText.innerText = currentQuestion.referencepage;
+  referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
     const { number } = choice.dataset;
