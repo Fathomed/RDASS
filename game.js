@@ -58,7 +58,7 @@ getNewQuestion = () => {
   const questionIndex = Math.floor(Math.random() * availableQuestions.length);
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
-  question.innerText = currentQuestion.question;
+  question.innerHTML = currentQuestion.question;
   referenceText.innerText = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
