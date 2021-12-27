@@ -60,9 +60,7 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
-  referenceLink.addEventListener("click", function () {
-    document.location.href = currentQuestion.referencelink;
-  });
+  referenceLink.document.location.href = currentQuestion.referencelink;
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
