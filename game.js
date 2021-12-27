@@ -60,7 +60,8 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
-  referenceLink.href = currentQuestion.referencelink;
+  referenceLink.href =
+    "https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication";
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
