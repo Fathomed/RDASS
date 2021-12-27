@@ -9,7 +9,7 @@
 		"choice5": "All of the above",
 		"answer": 5,
 		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets"
 	},
 
 	{
@@ -22,7 +22,7 @@
 		"choice5": "Mobile phones are more reliable than all other electronic communication devices on a boat",
 		"answer": 4,
 		"referencepage": "Electronic Communications",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication"
 	},
 
 	{
@@ -35,7 +35,7 @@
 		"choice5": "All of the above",
 		"answer": 5,
 		"referencepage": "Electronic Communications",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/electronic-communication"
 	},
 
 	{
@@ -48,7 +48,7 @@
 		"choice5": "Flares should be used with caution and only in an emergency",
 		"answer": 1,
 		"referencepage": "Non-electronic communication",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/non-electronic-communication></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/non-electronic-communication"
 	},
 
 	{
@@ -74,7 +74,7 @@
 		"choice5": "First Aid Manual and a Card listing local emergency numbers",
 		"answer": 2,
 		"referencepage": "First Aid Kits",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/first-aid-kits></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/first-aid-kits"
 	},
 
 	{
@@ -87,7 +87,7 @@
 		"choice5": "Do not use any butter, ointments, or other home remedies on the burn. Such substances may trap the tissue's heat and make the burn worse",
 		"answer": 1,
 		"referencepage": "Burns",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/burns></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/burns"
 	},
 
 	{
@@ -100,7 +100,7 @@
 		"choice5": "All of the above",
 		"answer": 5,
 		"referencepage": "Seasickness",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/seasickness></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/seasickness"
 	},
 
 	{
@@ -113,7 +113,7 @@
 		"choice5": "Treatment is urgent and includes immediate removal from exposure, drying and insulating to commence warming",
 		"answer": 2,
 		"referencepage": "Hypothermia",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/hypothermia></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/hypothermia"
 	},
 
 	{
@@ -126,7 +126,7 @@
 		"choice5": "All of the above",
 		"answer": 5,
 		"referencepage": "Hyperthermia",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/hyperthermia></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/hyperthermia"
 	},
 
 	{
@@ -139,7 +139,7 @@
 		"choice5": "All of the above are acceptable",
 		"answer": 3,
 		"referencepage": "Lifejackets",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/lifejackets"
 	},
 
 	{
@@ -152,7 +152,7 @@
 		"choice5": "Always close the injury site immediately after removing a fishhook",
 		"answer": 4,
 		"referencepage": "Fish-hook injuries",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/treatment-fish-hook-injuries></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/treatment-fish-hook-injuries"
 	},
 
 	{
@@ -165,7 +165,7 @@
 		"choice5": "Answers A, C and D only",
 		"answer": 5,
 		"referencepage": "Trip Reports",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/trip-reports></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/trip-reports"
 	},
 
 	{
@@ -178,7 +178,7 @@
 		"choice5": "Answers B, C, and D are correct",
 		"answer": 5,
 		"referencepage": "Rules of the road",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats"
 	},
 
 	{
@@ -191,7 +191,7 @@
 		"choice5": "The slower vessel must accelerate to match the overtaking vessel's speed",
 		"answer": 3,
 		"referencepage": "Rules of the road",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats"
 	},
 
 	{
@@ -204,7 +204,7 @@
 		"choice5": "Answers A, C & D are correct.",
 		"answer": 5,
 		"referencepage": "Rules of the road",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/rules-road-boats"
 	},
 
 	{
@@ -217,7 +217,7 @@
 		"choice5": "All of the above are acceptable",
 		"answer": 3,
 		"referencepage": "Dive flags and restricted speed",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines"
 	},
 
 	{
@@ -229,7 +229,7 @@
 		"choice4": "Vessels and skippers are required to keep a proper lookout at all times, including for divers and swimmers in the water",
 		"choice5": "All of the above",
 		"answer": 5,
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/dive-flags-general-restricted-speed-guidelines"
 	},
 
 	{
@@ -242,7 +242,7 @@
 		"choice5": "It is essential for the activity supervisor to stay alert until all divers have returned to the vessel",
 		"answer": 1,
 		"referencepage": "Dive Planning",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dive-planning></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/dive-planning"
 	},
 
 	{
@@ -255,7 +255,7 @@
 		"choice5": "It is safe to deploy an anchor from the stern of a vessel",
 		"answer": 2,
 		"referencepage": "Anchoring",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/anchoring></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/anchoring"
 	},
 
 	{
@@ -268,7 +268,7 @@
 		"choice5": "Have a plan for assisting exhausted or distressed divers from the water",
 		"answer": 2,
 		"referencepage": "Deploying & retrieving divers",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/dropping-picking-up-assisting-divers></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/dropping-picking-up-assisting-divers"
 	},
 
 	{
@@ -281,7 +281,7 @@
 		"choice5": "Follow me, and Share air",
 		"answer": 1,
 		"referencepage": "Basic hand signals",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats"
 	},
 
 	{
@@ -294,7 +294,7 @@
 		"choice5": "Only C is a correct answer",
 		"answer": 4,
 		"referencepage": "Use of floats",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/basic-hand-signals-floats"
 	},
 
 	{
@@ -307,7 +307,7 @@
 		"choice5": "Neap tides generate the smallest amount of water movement (high to low) in the lunar cycle",
 		"answer": 3,
 		"referencepage": "Waves, currents and tides",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/waves-currents-tides></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/waves-currents-tides"
 	},
 
 	{
@@ -320,7 +320,7 @@
 		"choice5": "Calm the diver while assisting them back to the vessel",
 		"answer": 2,
 		"referencepage": "Distressed Diver on the Surface",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies"
 	},
 
 	{
@@ -333,7 +333,7 @@
 		"choice5": "Immediately contact emergency services using your VHF radio on Channel 16 or by telephone.",
 		"answer": 1,
 		"referencepage": "Missing Diver Procedure",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies"
 	},
 
 	{
@@ -346,7 +346,7 @@
 		"choice5": "Call DES (Divers Emergency Services) on 0800 4 DES 111 (0800 4337111)",
 		"answer": 4,
 		"referencepage": "Unconscious Diver on the Surface",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/responding-dive-emergencies"
 	},
 
 	{
@@ -359,6 +359,6 @@
 		"choice5": "Answers B & C are correct",
 		"answer": 5,
 		"referencepage": "Mayday calls",
-		"referencelink": "<a href=https://www.survivethedive.nzunderwater.org.nz/reference/mayday-calls></a>"
+		"referencelink": "https://www.survivethedive.nzunderwater.org.nz/reference/mayday-calls"
 	}
 ]
