@@ -60,7 +60,7 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
-  referenceLink.location.href = currentQuestion.referencelink;
+  referenceLink.location.href = `https://www.survivethedive.nzunderwater.org.nz/reference/hypothermia`;
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
