@@ -63,7 +63,7 @@ getNewQuestion = () => {
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
   referenceLink.href = href;
-  referenceLink.innerHTML = href.replace(currentQuestion.referencelink);
+  referenceLink.innerHTML = href.replace.currentQuestion.referencelink;
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
