@@ -9,6 +9,7 @@ const referenceText = document.getElementById("referencepage");
 const progressBarFull = document.getElementById("progressbarFull");
 const loader = document.getElementById("loader");
 const game = document.getElementById("game");
+const href = "http://www.google.com";
 
 let currentQuestion = {};
 let acceptingAnswers = false;
