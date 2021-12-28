@@ -9,8 +9,6 @@ const referenceText = document.getElementById("referencepage");
 const progressBarFull = document.getElementById("progressbarFull");
 const loader = document.getElementById("loader");
 const game = document.getElementById("game");
-const href =
-  "https://www.survivethedive.nzunderwater.org.nz/rdass-pages/rdass-quiz";
 
 let currentQuestion = {};
 let acceptingAnswers = false;
@@ -62,7 +60,7 @@ getNewQuestion = () => {
   currentQuestion = availableQuestions[questionIndex];
   header.innerText = currentQuestion.header;
   question.innerHTML = currentQuestion.question;
-  referenceLink.href = href.replace(currentQuestion.referencelink);
+  referenceLink.href = currentQuestion.referencelink;
   referenceText.innerHTML = currentQuestion.referencepage;
 
   choices.forEach((choice) => {
