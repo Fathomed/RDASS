@@ -52,7 +52,7 @@ getNewQuestion = () => {
     return window.location.assign("/rdass-pages/rdass-quiz-end");
   }
   questionCounter++;
-  progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
+  progressText.innerText = `${questionCounter}/${MAX_QUESTIONS}`;
   // Update the progress bar
   progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
