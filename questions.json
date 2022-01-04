@@ -1,7 +1,7 @@
 [
 	{
 		"header": "Lifejackets",
-		"question": "Which of the following statements about lifejackets is the best answer?",
+		"question": "Which of the following statements about lifejackets is the <b>best</b> answer?",
 		"choice1": "It is the skipper's legal responsibility to ensure lifejackets are worn in situations of heightened risk, such as when crossing a bar, in rough water, during an emergency, and by non‐swimmers",
 		"choice2": "There must be one correct sized lifejacket for everyone on board. The lifejacket must be in good working condition and suitable for the intended activity",
 		"choice3": "Child-sized lifejackets must contain a crotch strap",
@@ -14,7 +14,7 @@
 
 	{
 		"header": "Electronic Communications (Part A)",
-		"question": "Which of the following statements is the best answer regarding electronic communication devices?",
+		"question": "Which of the following statements is the <b>best</b> answer regarding electronic communication devices?",
 		"choice1": "VHF radio is the recommended first choice of communications in marine emergencies",
 		"choice2": "All vessels should carry two forms of communication, of which one should be a VHF radio",
 		"choice3": "Only vessels operating more than 5-kilomentres from shore should use a VHF radio",
@@ -27,7 +27,7 @@
 
 	{
 		"header": "Electronic Communications (Part B)",
-		"question": "Choose the best answer from the following statements about EPIRBs and PLBs?",
+		"question": "Choose the <b>best</b> answer from the following statements about EPIRBs and PLBs?",
 		"choice1": "EPIRBs and PLBs are electronic beacons that can notify rescue services of your location almost anywhere on Earth",
 		"choice2": "Today, EPIRBs and PLBs are much more affordable than in the past",
 		"choice3": "An EPIRB or PLB should never be activated unless it is an emergency",
@@ -40,7 +40,7 @@
 
 	{
 		"header": "Non-electronic communication - Sound",
-		"question": "Choose the best answer from the following regarding the use of sound on dive boats.",
+		"question": "Choose the <b>best</b> answer from the following regarding the use of sound on dive boats.",
 		"choice1": "Answers C, D and E are correct",
 		"choice2": "Loud sounds are not useful as a form of emergency communication on boats",
 		"choice3": "Portable or fixed horns and whistles on lifejackets are good for making loud sounds",
@@ -53,7 +53,7 @@
 
 	{
 		"header": "General Safety Equipment",
-		"question": "Which of the following is not from the list of recommended general safety equipment items in the RDASS reference list?",
+		"question": "Which of the following is <b>not</b> from the list of recommended general safety equipment items in the RDASS reference list?",
 		"choice1": "Bilge pump, bucket, hand bailer",
 		"choice2": "Alternative power, a spare outboard motor, or oars",
 		"choice3": "A grab-bag of lollies of similar sweet pick-me-ups",
@@ -66,7 +66,7 @@
 
 	{
 		"header": "First Aid Kits",
-		"question": "All vessels should carry a well-stocked First Aid Kit. Which of the following is not from the list of minimum requirements of the RDASS reference list?",
+		"question": "Which of the following is <b>not</b> from the list of minimum first aid kit requirements of the RDASS reference list?",
 		"choice1": "Roller bandages - 50mm (1 roll) and 75 mm (1 roll)",
 		"choice2": "A box of low strength painkillers such as aspirin or paracetamol",
 		"choice3": "Adhesive wound dressing - 6 cm wide x 1 metre long (1 strip)",
@@ -79,7 +79,7 @@
 
 	{
 		"header": "Burns",
-		"question": "Which of the following statements about burn injuries is not correct?",
+		"question": "Which of the following statements about burn injuries is <b>not</b> correct?",
 		"choice1": "First-degree burns are always minor and never require treatment",
 		"choice2": "Burn injuries can be serious, especially on a vessel or at a remote location where immediate treatment and patient management can be slow to access",
 		"choice3": "Do immediately stop the burning process: cooling the burn with running cool (not cold) water for 20 minutes is a good option",
@@ -105,7 +105,7 @@
 
 	{
 		"header": "Hypothermia",
-		"question": "Which of the following statements is not correct about hypothermia?",
+		"question": "Which of the following statements is <b>not</b> correct about hypothermia?",
 		"choice1": "Hypothermia is caused by prolonged exposure to cold temperatures, especially where water is a compounding factor",
 		"choice2": "Hypothermia only occurs to people under the age of 15 and older than 55",
 		"choice3": "Symptoms of hypothermia include shivering, slurred speech, clumsiness, and confusion",
@@ -118,7 +118,7 @@
 
 	{
 		"header": "Hyperthermia",
-		"question": "Hyperthermia is the potentially fatal overheating of the bodies core temperature. Which of the following is the best answer regarding hyperthermia?",
+		"question": "Which of the following is the <b>best</b> answer regarding hyperthermia?",
 		"choice1": "Signs and symptoms of hyperthermia include dizziness, weakness, thirst, coordination issues, rapid breathing and pulse",
 		"choice2": "Treatment includes removal to a shaded, well-ventilated location",
 		"choice3": "Rehydration will cool fluids, especially water is important",
@@ -170,7 +170,7 @@
 
 	{
 		"header": "Rules of the road (1)",
-		"question": "When two vessels are underway and approaching, which of the following is the best answer?",
+		"question": "When two vessels are underway and approaching, which of the following is the <b>best</b> answer?",
 		"choice1": "Two approaching vessels pass starboard-side to starboard-side",
 		"choice2": "Two approaching vessels pass port-side to port-side",
 		"choice3": "All powerboats give way to vessels on their starboard side",
@@ -183,7 +183,7 @@
 
 	{
 		"header": "Rules of the road (2)",
-		"question": "Which of the following statements is correct regarding overtaking vessels?",
+		"question": "Which of the following statements <b>is correct</b> regarding overtaking vessels?",
 		"choice1": "The overtaking vessel must pass the port side of the slower vessel",
 		"choice2": "The overtaking vessel must pass the starboard side of the slower vessel",
 		"choice3": "The overtaking vessel can pass on either side, maintaining a safe distance that allows for sudden changes of course or speed by the slower vessel",
@@ -196,7 +196,7 @@
 
 	{
 		"header": "Rules of the road (3)",
-		"question": "Which of the following is the best answer regarding vessel speed and maintaining watch?",
+		"question": "Which of the following is the <b>best</b> answer regarding vessel speed and maintaining watch?",
 		"choice1": "Vessels must proceed at a safe speed allowing for weather conditions, visibility and traffic congestion",
 		"choice2": "In open water and clear of all shipping channels there is no requirement to maintain watch",
 		"choice3": "Vessel skippers must keep watch at all times",
@@ -222,7 +222,7 @@
 
 	{
 		"header": "Vessel speed and divers",
-		"question": "Which of the following statements about boat speed is the best answer?",
+		"question": "Which of the following statements about boat speed is the <b>best</b> answer?",
 		"choice1": "Vessels must reduce speed to below 5-knots within 200-metres of the shore",
 		"choice2": "Vessels must reduce speed to below 5-knots within 200 metres of the dive flag",
 		"choice3": "Vessels must reduce speed to below 5-knots within 50-metres of another vessel or person in the water",
@@ -234,7 +234,7 @@
 
 	{
 		"header": "Dive Planning",
-		"question": "Which of the following statements is incorrect regarding dive planning?",
+		"question": "Which of the following statements is <b>incorrect</b> regarding dive planning?",
 		"choice1": "Only the divers should contribute to the dive plan",
 		"choice2": "Dive planning should involve all people participating - the divers, the skipper and the dive activity supervisor.",
 		"choice3": "Dive planning includes knowledge of the topography, the environmental conditions plus the use of dive tables or dive computer",
@@ -247,7 +247,7 @@
 
 	{
 		"header": "Anchoring",
-		"question": "A quality anchor is a sailor's best friend. Which of the following is the best answer regarding anchoring?",
+		"question": "Which of the following is the <b>best</b> answer regarding anchoring?",
 		"choice1": "All anchor types are suitable in all conditions",
 		"choice2": "Deploy at least three times as much rode as the water depth, and test the holding of the anchor before shutting down the vessel",
 		"choice3": "An anchor rode comprised only of rope without chain is sufficient for small vessels",
@@ -260,7 +260,7 @@
 
 	{
 		"header": "Deploying and retrieving divers from the water",
-		"question": "Which of the following statements is incorrect regarding deploying and retrieving divers from the water?",
+		"question": "Which of the following statements is <b>incorrect</b> regarding deploying and retrieving divers from the water?",
 		"choice1": "Always observe drop-off location in detail to ensure it is clear of hazards to the vessel or divers",
 		"choice2": "The divers do not need the skipper's approval to enter the water",
 		"choice3": "Plan and agree the diver deployment in advance",
@@ -286,7 +286,7 @@
 
 	{
 		"header": "Use of floats",
-		"question": "Which the following statements is the best answer regarding the use of floats and lines?",
+		"question": "Which the following statements is the <b>best</b> answer regarding the use of floats and lines?",
 		"choice1": "Dive vessels should carry a throwable floating device with attached line",
 		"choice2": "Floats and lines can be used for retrieving divers in distress",
 		"choice3": "Floats and lines can be useful behind anchored or moored vessels to allow divers to rest while waiting to exit the water",
@@ -299,7 +299,7 @@
 
 	{
 		"header": "Waves, currents and tides",
-		"question": "Which of the following statements is not correct regarding waves, currents and tides?",
+		"question": "Which of the following statements is <b>not</b> correct regarding waves, currents and tides?",
 		"choice1": "The friction of wind across the water's surface generates the energy required to form a wave",
 		"choice2": "The speed of a current is measured in knots or fractions of a knot",
 		"choice3": "Tide and current movement have no effect underwater",
@@ -312,7 +312,7 @@
 
 	{
 		"header": "Responding to Panicked or Distressed Diver on the Surface",
-		"question": "Which of the following steps is not included in the RDASS guide to Responding to panicked or distressed divers on the surface?",
+		"question": "Which of the following steps is <b>not</b> included in the RDASS guide to Responding to panicked or distressed divers on the surface?",
 		"choice1": "If possible, using your boat, approach the diver and throw them a life ring or any other form of flotation device. If the situation dictates and is safe to do so, enter the water and carry a flotation device to the diver",
 		"choice2": "Allow the diver to calm themselves before approaching or engaging in any way",
 		"choice3": "It is common for panicked divers and swimmers to attempt to grab the rescuer in a manner that may threaten both person's lives. Position a flotation device between you and the diver to minimise the risk",
@@ -325,7 +325,7 @@
 
 	{
 		"header": "Missing Diver Procedure",
-		"question": "Which of the following steps is not included in the RDASS guide to Missing Diver Procedures?",
+		"question": "Which of the following steps is <b>not</b> included in the RDASS guide to Missing Diver Procedures?",
 		"choice1": "Take no action until the originally planned dive time have elapsed",
 		"choice2": "Determine the direction and strength of the current",
 		"choice3": "Estimate the missing diver's possible actions in an emergency",
@@ -338,7 +338,7 @@
 
 	{
 		"header": "Unconscious Diver on the Surface",
-		"question": "Which of the following steps is not included in the RDASS guide for an unconscious diver on the surface?",
+		"question": "Which of the following steps is <b>not</b> included in the RDASS guide for an unconscious diver on the surface?",
 		"choice1": "Bring your boat alongside the victim",
 		"choice2": "Use other divers, if possible, to help bring the victim onboard",
 		"choice3": "Perform the standard assessments and actions described in your First Aid and CPR course",
@@ -351,7 +351,7 @@
 
 	{
 		"header": "Mayday calls",
-		"question": "Which of the following is the best answer regarding Mayday calls?",
+		"question": "Which of the following is the <b>best</b> answer regarding Mayday calls?",
 		"choice1": "Mayday calls can be used for a wide variety of non-emergency-related circumstances",
 		"choice2": "Always use VHF channel 16 to conduct a Mayday call",
 		"choice3": "Only make a Mayday call if you are in imminent danger and need immediate help",
