@@ -49,7 +49,7 @@ getNewQuestion = () => {
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem("mostRecentScore", score);
     // go to the end page
-    return window.location.assign("/rdass-pages/rdass-quiz-end");
+    return window.location.assign("/rds-pages/rds-quiz-end");
   }
   questionCounter++;
   progressText.innerText = `${questionCounter}/${MAX_QUESTIONS}`;
