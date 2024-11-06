@@ -18,7 +18,7 @@ let availableQuestions = [];
 
 let questions = [];
 
-fetch("https://fathomed.github.io/rdass/questions.json")
+fetch("https://fathomnz.github.io/rdass/questions.json")
   .then((res) => res.json())
   .then((loadedQuestions) => {
     // eslint-disable-next-line no-console
